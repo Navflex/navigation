@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.0.2)
+cmake_minimum_required(VERSION 3.16)
 project(move_slow_and_clear)
 
 find_package(catkin REQUIRED
