@@ -1,0 +1,1 @@
+ROS1-only tree: colcon must skip it in the shared ~/code workspace. Remove when the ROS2 port / dual structure lands.
