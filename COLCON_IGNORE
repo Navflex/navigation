@@ -1,0 +1,1 @@
+ROS1-only tree: colcon must skip it in the shared ~/code workspace (ROS1 is built with catkin ONLY — the marker is why colcon must not be used for ROS1). Remove when the ROS2 port / dual structure lands.
